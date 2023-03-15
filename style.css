@@ -1,0 +1,103 @@
+.navbar {
+  background: rgba(187, 207, 255, 0.7);
+  backdrop-filter: blur(10px);
+  color: white;
+}
+.biru-es {
+  color: #77f6ff;
+}
+.putih {
+  color: aliceblue;
+}
+.ijo-tua {
+  color: #01909e;
+}
+.jumbotron {
+  padding-top: 6rem;
+  margin-bottom: -20px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: white;
+}
+section {
+  padding-top: 1rem;
+}
+.inti {
+  background-color: #284a6e;
+}
+.img-1 {
+  height: 500px;
+  border-radius: 50px 0 0px 0;
+}
+.img-2 {
+  height: 500px;
+  border-radius: 0 50px 0 50px;
+}
+.img-3 {
+  height: 500px;
+  border-radius: 50px 50px 0 50px;
+}
+.main {
+  color: black;
+}
+.bagian-1 {
+  margin-top: 8%;
+  margin-right: 70%;
+}
+.bagian-2 {
+  margin-top: 25%;
+  margin-right: 70%;
+}
+.bagian-3 {
+  margin-top: 28%;
+  margin-right: 70%;
+  margin-bottom: -40%;
+}
+.hijau {
+  color: #009619;
+}
+.kuning {
+  color: #acaf00;
+}
+.merah {
+  color: #d40202;
+}
+.biru {
+  color: #0059ff;
+}
+.huruf-kotak-hijau p {
+  margin-left: 50px;
+}
+.kotak-hijau {
+  background-color: #009619;
+  height: 50px;
+  width: 100px;
+}
+.kotak-kuning {
+  background-color: #acaf00;
+  height: 50px;
+  width: 100px;
+}
+.kotak-biru {
+  background-color: #0059ff;
+  height: 50px;
+  width: 100px;
+}
+.kotak-merah {
+  background-color: #d40202;
+  height: 50px;
+  width: 100px;
+}
+.story {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+  color: white;
+  margin-top: -1000px;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+footer {
+  background-color: #01909e;
+  margin-top: 20px;
+}
+i .bi-instagram {
+  background-color: #ff00bf;
+}
